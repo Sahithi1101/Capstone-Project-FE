@@ -1,0 +1,35 @@
+ 
+.login {
+    padding: 20px;
+    height: 40vh;
+    max-width: 400px;
+    margin: auto;
+    background-color: #ffffff;
+}
+.login h2 {
+    color: #080808;
+}
+.form {
+    margin-bottom: 15px;
+}
+.form label {
+    display:flex;
+    margin-bottom: 5px;
+}
+.form input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.btn {
+    background-color: rgb(100, 132, 237);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: rgb(112, 246, 116);
+}

@@ -1,0 +1,40 @@
+.background{
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-color: aliceblue;
+    width: 100%;
+    
+}
+
+.p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.welcome-container {
+    height:30%;
+    width:auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url('https://image.hoopladigital.com/www/home/banner.jpg');
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-size: cover;
+}
+
+.welcome-heading, .welcome-des {
+    flex: 1;
+    margin: 10px;
+    text-align: center;
+    color: white;
+}
+.welcome-des {
+    flex: 1;
+    margin: 10px;
+    text-align: center;
+    color: white;
+}
+
+

@@ -1,0 +1,79 @@
+
+/* body {
+    background-color: #f2dcd1;
+    /* background-image: url("https://a5.behance.net/85d99c86776c1c72d721d790d2742467325c5c7a/img/creator_pro/pro-profile-banner-background-2x.webp"); */
+    /*background-size:auto;
+    background-position: center;
+    margin: 0%;
+    font-family: Arial, sans-serif;
+   
+} */
+
+
+.app-header {
+    background-color: #c1f0f6;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 80px; /* Increased height for better visibility */
+    z-index: 1000;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Added shadow for depth */
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; /* Ensures spacing between items */
+    padding: 10px;
+}
+
+.brand-logo {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.brand-logo img {
+    height: 60px;
+    width: 60px;
+    /* margin-right: 10px; */
+}
+
+.tabs {
+    margin-left: auto;
+    
+    display: flex;
+    gap: 30px; /* Increased gap for better readability */
+}
+
+.tab {
+    color: rgb(30, 26, 26);
+    text-decoration:solid;
+    padding: 12px 20px; /* Adjusted padding for a more spacious look */
+    font-size: 18px;
+    font-style:normal;
+    font-family: 'Times New Roman', Times, serif;
+    transition: color 0.3s ease,border-bottom 0.3s ease; /* Smooth hover effect */
+}
+
+.tab:hover {
+color: #0c29e8;
+    cursor: pointer; /* Indicating interactivity */
+}
+
+/* .tab.active {
+    /*border-bottom: 3px solid #1976d2; Bolder active tab8*/
+    /*color: #0fa81e; /* Ensures active tab is highlighted 
+} */
+
+.tab:focus {
+    outline: none; /* Removes the outline on focus */
+}
+
+  
