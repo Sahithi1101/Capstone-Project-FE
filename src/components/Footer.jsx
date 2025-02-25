@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="footer-column">
           <h5>Our Social</h5>
           <ul>
-            <li><a href="https://www.facebook.com">Facebook</a></li>
+          <li><a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">Facebook</a></li>
             <li><a href="https://www.Twitter.com">Twitter</a></li>
             <li><a href="https://instagram.com">Instagram</a></li>
             <li><a href="https://www.youtube.com">YouTube</a></li>

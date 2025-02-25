@@ -4,7 +4,7 @@
     background-position: center;
     background-repeat: no-repeat;
     height: 100vh;
-    background-color: aliceblue;
+    background-color: rgb(230, 217, 226);
     width: 100%;
     
 }
@@ -28,13 +28,13 @@
     flex: 1;
     margin: 10px;
     text-align: center;
-    color: white;
+    color: rgb(236, 230, 230);
 }
 .welcome-des {
     flex: 1;
     margin: 10px;
     text-align: center;
-    color: white;
+    color: rgb(247, 239, 239);
 }
 
 

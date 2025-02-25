@@ -4,7 +4,8 @@ body, html {
 }
   
 body {
-    background-image: url("https://i.pinimg.com/736x/8a/3c/96/8a3c96d999780b6dab51745038407da9.jpg");
+    background-image: url("https://i.pinimg.com/736x/ea/79/09/ea790963ac6f444f48b69e79ba5774ff.jpg");
+    /* background-size: cover; */
 }
 .form-container {
     display: flex;
@@ -29,7 +30,8 @@ body {
     width: 100%;
     padding: 8px;
     box-sizing: border-box;
-    background-color: rgb(216, 215, 215);
+    border: solid black;
+    background-color: rgb(255, 255, 255);
 }
   
 .form-group input[type="checkbox"] {
