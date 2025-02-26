@@ -99,6 +99,7 @@ const ViewbooksPage = () => {
                     className="delete-btn">
                       Delete
                     </button>
+                    
                   </td>
                 </tr>
               ))}

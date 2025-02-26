@@ -8,7 +8,40 @@
     width: 100%;
     
 }
-
+/* Keyframes for the animation */
+@keyframes fadeInSlide {
+    0% {
+      opacity: 0;
+      transform: translateY(-30px); /* Starts above and invisible */
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0); /* Ends at normal position and visible */
+    }
+}
+  
+/* Apply animation to the h2 element with the animated-heading class */
+.animated-heading {
+    animation: fadeInSlide 1.5s ease-out; /* 1.5 seconds duration with easing */
+}
+  
+/* Optional: Add more animation effects (e.g., bouncing) */
+.animated-heading:hover {
+    animation: bounce 0.5s ease-out infinite;
+}
+  
+@keyframes bounce {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+}
+  
 .p{
     font-family: 'Times New Roman', Times, serif;
 }

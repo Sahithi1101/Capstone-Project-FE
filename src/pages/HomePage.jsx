@@ -7,7 +7,7 @@ const Description = () => {
     <section className= "background">
         <div className='welcome-container'>
             <div className='welcome-heading'>
-            <h2>Welcome to BookNest!</h2>
+            <h2 className='animated-heading'>Welcome to BookNest!</h2>
             </div>
             <div className='welcome-des'>
             <p>BookNest is your go-to digital library where you can discover, buy, and read books on the go. 
