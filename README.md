@@ -96,4 +96,4 @@ I build applications and mini projects tied to my various interests. I look for 
 ## Special Mention: Supporters of the build
 * Swetha Malasani
 * [LinkedIn]
-* (https://www.linkedin.com/in/swetha-malasani-943652338/)
+*            (https://www.linkedin.com/in/swetha-malasani-943652338/)
