@@ -82,9 +82,9 @@ available: { type: Boolean, required: true },
 * Add ereading.
 * Add a timer for reading
 
-
 * You can view the repository:
-[Github.com](https://github.com/Sahithi1101/Capstone-Project-FE)-FrontEnd
+[Github.com]
+*           (https://github.com/Sahithi1101/Capstone-Project-FE)-FrontEnd
 *           (https://github.com/Sahithi1101/Capstone-Project-BE)-BackEnd
 
 ## <a name="Sahithi"></a>About The Author
