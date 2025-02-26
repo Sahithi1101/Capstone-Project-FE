@@ -54,7 +54,7 @@ Add books: user can add the books to the database.
 * <img src="https://media0.giphy.com/media/1wQtkhfeLxIaRMsRcy/source.gif" alt="Logo" />
 * <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F1523-1%2F%257BA2A9BABA-C565-474A-BDD3-1D02A8E13213%257DIMG400.JPG" alt="book1" />
 * <img src= "https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F1523-1%2F%257BD29CC053-29CE-4E90-9596-61DA1F2F555D%257DIMG400.JPG" alt="book2" />
-* <img src= "https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F2183-1%2F%257BE64DFF4C-8885-4FDB-8B08-3DF7EE07294A%257DIMG400.JPG"alt="book3" />
+* <img src= "https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F2183-1%2F%257BE64DFF4C-8885-4FDB-8B08-3DF7EE07294A%257DIMG400.JPG" alt="book3" />
 * <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F4951-1%2F%257B00A0324C-9587-46AF-AD97-78E06FBA602F%257DIMG400.JPG" alt="book4" />
 * <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0111-1%2F%257B31512821-1ACA-4654-9C12-2CCA6B4337DF%257DIMG400.JPG" alt="book5" />
 * <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F0017-1%2F7A4%2F8EA%2FEE%2F%257B7A48EAEE-7C55-4721-A471-25FBE4E1744C%257DImg400.jpg" alt="book6" />
@@ -91,4 +91,4 @@ available: { type: Boolean, required: true },
 I build applications and mini projects tied to my various interests. I look for creative solutions to real world problems and think of technical ways to address them. While no application is ever perfect I find joy in the process and all my final products!
 
 ## Special Mention: Supporters of the build
-* Swetha Malasani LinkedIn: linkedin.com/in/swetha-malasani-943652338
+* Swetha Malasani [LinkedIn]:(linkedin.com/in/swetha-malasani-943652338)
