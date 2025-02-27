@@ -79,7 +79,6 @@ const ViewbooksPage = () => {
                 <th>Actions</th> {/* New column for buttons */}
               </tr>
             </thead>
-
             <tbody>
               {filteredBooks.map((book) => (
                 <tr key={book._id}>
@@ -99,7 +98,6 @@ const ViewbooksPage = () => {
                     className="delete-btn">
                       Delete
                     </button>
-                    
                   </td>
                 </tr>
               ))}
