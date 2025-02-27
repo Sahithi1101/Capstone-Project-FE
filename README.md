@@ -8,7 +8,7 @@ BookNest
 
 #### INSERT 1 SENTANCE SUMMARY OF YOUR APPLICATION
 The bookstore app is a digital platform for browsing, searching and adding books. 
-It features an easy-to-use interface, various book categories, personalized recommendations,, 
+It features an easy-to-use interface, various book categories recommendations,, 
 and social sharing options. This app aims to provide users with a convenient and enjoyable reading 
 experience.
 
